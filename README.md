@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![sohee's GitHub stats](https://github-readme-stats.vercel.app/api?username=do2y)](https://github.com/do2y/github-readme-stats)
 <!--
 **do2y/do2y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
