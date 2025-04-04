@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E0F7FA&height=150&section=header&text=Hi,%20I'm%20SOHEE%20👋&fontSize=32&fontColor=000000&fontAlignY=40" />
 
-🌱🔎 Always Learning
+🌱🔎 <strong>Always Learning</strong>
 <br />
 <br />
 
