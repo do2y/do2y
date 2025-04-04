@@ -6,9 +6,16 @@
 
 ---
 
-![Sohee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=do2y&show_icons=true&bg_color=ffffff&title_color=003366&text_color=003366&icon_color=003366&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do2y&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=do2y&show_icons=true&bg_color=ffffff&title_color=003366&text_color=003366&icon_color=003366&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=do2y&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
