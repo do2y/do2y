@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E0F7FA&height=150&section=header&text=Hi,%20I'm%20SOHEE%20👋&fontSize=32&fontColor=000000&fontAlignY=40" />
 
+<p>🌱 Frontend Developer | 🎨 Design Lover | 🔎 Always Learning</p>
 <br /><br /><br />
 
 <table style="border-collapse: separate; border-spacing: 0 0;"><tr>
@@ -19,7 +20,7 @@
 <span style="text-decoration: none; color: #5B4B3A; font-weight: 500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   📬 <a href="mailto:leesohi252@gmail.com" style="text-decoration: none; color: #5B4B3A; font-weight: 500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">leesohi252@gmail.com</a>
   &nbsp;|&nbsp;
-  📝 <a href="https://velog.io/@do2y/posts" target="_blank" style="text-decoration: none; color: #333333;">Velog Blog</a>
+  📝 <a href="https://velog.io/@do2y/posts" target="_blank" style="text-decoration: none; color: #5B4B3A; font-weight: 500; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Velog Blog</a>
 </span>
 
 
