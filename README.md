@@ -4,7 +4,6 @@
 
 🌱 Frontend Developer &nbsp;|&nbsp; 🎨 Design Lover &nbsp;|&nbsp; 🔎 Always Learning
 
----
 
 <table>
   <tr>
@@ -18,7 +17,6 @@
 </table>
 <br /><br />
 
----
 
 📬 <a href="mailto:leesohi252@gmail.com" style="text-decoration: none; color: #5B4B3A; font-weight: 500;">leesohi252@gmail.com</a>  
 📝 <a href="https://velog.io/@do2y/posts" target="_blank" style="text-decoration: none; color: #5B4B3A; font-weight: 500;">Velog @do2y</a>
