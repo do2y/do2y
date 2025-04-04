@@ -15,4 +15,8 @@
 </td>
 </tr></table>
 
+<br /><br />
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=do2y&bg_color=ffffff&color=003366&line=3e8acc&point=007acc&area=true&hide_border=true" />
+
 </div>
