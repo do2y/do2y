@@ -5,7 +5,7 @@
 <p>🌱 Frontend Developer | 🎨 Design Lover | 🔎 Always Learning</p>
 <br /><br /><br />
 
-<table><tr>
+<table style="border-collapse: separate; border-spacing: 0 0;"><tr>
 <td style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; vertical-align: top;">
   <img src="https://github-readme-stats.vercel.app/api?username=do2y&show_icons=true&bg_color=ffffff&title_color=8B5E3C&text_color=8B5E3C&icon_color=8B5E3C&hide_border=true" />
 </td>
