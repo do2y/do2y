@@ -4,7 +4,6 @@
 
 🌱 Frontend Developer &nbsp;|&nbsp; 🎨 Design Lover &nbsp;|&nbsp; 🔎 Always Learning
 
----
 
 <table>
   <tr>
@@ -17,7 +16,6 @@
   </tr>
 </table>
 
----
 
 📬 **Email**: [leesohi252@gmail.com](mailto:leesohi252@gmail.com)  
 📝 **Blog**: [Velog @do2y](https://velog.io/@do2y/posts)
