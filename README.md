@@ -16,13 +16,10 @@
     </td>
   </tr>
 </table>
-<br />
+<br /><br />
 
 </div>
-
-📬 <a href="mailto:leesohi252@gmail.com" style="text-decoration: none; color: #5B4B3A; font-weight: 500;">leesohi252@gmail.com</a>  
+📬 <a href="mailto:leesohi252@gmail.com" style="text-decoration: none; color: #5B4B3A; font-weight: 500;">leesohi252@gmail.com</a>  <br />
 📝 <a href="https://velog.io/@do2y/posts" target="_blank" style="text-decoration: none; color: #5B4B3A; font-weight: 500;">Velog @do2y</a>
 
 </div>
-
-
