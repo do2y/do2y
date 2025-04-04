@@ -17,6 +17,6 @@
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=do2y&bg_color=ffffff&color=003366&line=3e8acc&point=007acc&area=true&hide_border=true" />
+<a href="mailto:leesohi252@gmail.com">📬 leesohi252@gmail.com</a> &nbsp;|&nbsp; <a href="https://velog.io/@do2y/posts" target="_blank">📝 Velog Blog</a>
 
 </div>
