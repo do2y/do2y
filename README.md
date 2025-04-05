@@ -48,15 +48,15 @@
     </td>
   </tr>
 </table>
-<br /><br />
+<br /><br /><br />
 
-<p>
+<div align="right">
   <a href="mailto:leesohi252@gmail.com">
     <img src="https://img.shields.io/badge/email-leesohi252@gmail.com-7D4C92?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://velog.io/@do2y">
     <img src="https://img.shields.io/badge/Velog-Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-</p>
+</div
 
 </div>
