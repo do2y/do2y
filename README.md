@@ -6,8 +6,12 @@
 
 <div align="left">
 
-🌱🔎 **Always Learning**
-<br /><br />
+<div align="center">
+
+### 🌱 Always Learning
+
+</div>
+<br />
 
 <sub>💻 <strong>Skills</strong></sub>
 -------------
@@ -16,7 +20,7 @@
 
 <sub>📘 <strong>Studying & Planning</strong></sub>
 -------------
-[![Studying](https://skillicons.dev/icons?i=react,ts,tailwind&theme=light)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=react,ts,tailwind,git&theme=light)](https://skillicons.dev)
 <br />
 
 <sub>🛠️ <strong>Tools</strong></sub>
@@ -28,7 +32,7 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
-
+<br />
 </div>
 
 <div align="center">
