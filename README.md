@@ -15,12 +15,12 @@
 
 <sub>💻 <strong>Skills</strong></sub>
 -------------
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,python&theme=light)](https://skillicons.dev)
 <br />
 
 <sub>📘 <strong>Studying & Planning</strong></sub>
 -------------
-[![Studying](https://skillicons.dev/icons?i=react,ts,tailwind,git&theme=light)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=ts,tailwind&theme=light)](https://skillicons.dev)
 <br />
 
 <sub>🛠️ <strong>Tools</strong></sub>
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 <br />
 </div>
@@ -49,7 +50,13 @@
 </table>
 <br /><br />
 
-📬 [leesohi252@gmail.com](mailto:leesohi252@gmail.com)  
-📝 [velog @do2y](https://velog.io/@do2y/posts)
+<p>
+  <a href="mailto:leesohi252@gmail.com">
+    <img src="https://img.shields.io/badge/email-leesohi252@gmail.com-7D4C92?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://velog.io/@do2y">
+    <img src="https://img.shields.io/badge/Velog-Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
+</p>
 
 </div>
