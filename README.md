@@ -12,7 +12,7 @@
 </div>
 <br />
 
-<sub>🌿 <strong>About Me</strong></sub>
+<sub>🐻‍❄ <strong>About Me</strong></sub>
 -------------
 - 영남대학교 컴퓨터공학과 재학중
 - Email: leesohi252@gmail.com
