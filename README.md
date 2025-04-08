@@ -12,14 +12,20 @@
 </div>
 <br />
 
+<sub>🌿 <strong>About Me</strong></sub>
+-------------
+- 영남대학교 컴퓨터공학과 재학중
+- Email: leesohi252@gmail.com
+- velog: https://velog.io/@do2y/posts
+
 <sub>✨ <strong>Skills</strong></sub>
 -------------
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python&theme=light)](https://skillicons.dev)
 <br />
 
 <sub>🧩 <strong>Studying & Planning</strong></sub>
 -------------
-[![Studying](https://skillicons.dev/icons?i=ts,tailwind&theme=light)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=react,nodejs,ts,tailwind&theme=light)](https://skillicons.dev)
 <br />
 
 <sub>🛠️ <strong>Tools</strong></sub>
@@ -48,14 +54,5 @@
   </tr>
 </table>
 <br /><br /><br />
-
-<div align="right">
-  <a href="mailto:leesohi252@gmail.com">
-    <img src="https://img.shields.io/badge/email-leesohi252@gmail.com-7D4C92?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://velog.io/@do2y">
-    <img src="https://img.shields.io/badge/Velog-Blog-20C997?style=flat-square&logo=velog&logoColor=white" />
-  </a>
-</div>
 
 </div>
