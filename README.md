@@ -28,19 +28,9 @@
 [![Studying](https://skillicons.dev/icons?i=react,nodejs,ts,tailwind&theme=light)](https://skillicons.dev)
 <br />
 
-<sub>🛠️ <strong>Tools</strong></sub>
--------------
-<p>
-  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-<br />
 </div>
-
+<br />
+<br />
 <div align="center">
 
 <table>
@@ -53,6 +43,6 @@
     </td>
   </tr>
 </table>
-<br /><br /><br />
+<br />
 
 </div>
